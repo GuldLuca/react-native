@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cbs-student-2",
+    "slug": "cbs-student-2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cbs-student-2"
+}
